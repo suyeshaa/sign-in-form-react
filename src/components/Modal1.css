@@ -1,0 +1,16 @@
+.modal1 {
+  background-color: white;
+  width: 50%;
+  margin: auto;
+  border-radius: 10px;
+}
+
+.top {
+  background-color: teal;
+  color: white;
+  padding: 10px 15px;
+}
+
+.btm {
+  padding: 10px 15px;
+}

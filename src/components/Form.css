@@ -1,0 +1,22 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+  margin: 30px auto;
+}
+
+input {
+  margin: 10px 0;
+  padding: 5px;
+}
+
+label {
+  font-weight: bold;
+}
+
+.btn {
+  padding: 5px;
+  width: 130px;
+  background-color: teal;
+  color: white;
+}

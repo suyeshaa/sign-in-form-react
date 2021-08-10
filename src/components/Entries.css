@@ -1,0 +1,10 @@
+.block {
+  width: 50%;
+  margin: 10px auto;
+}
+
+.dissect {
+  border: 1px solid rgb(177, 175, 175);
+  margin: 10px 0;
+  padding: 7px;
+}
